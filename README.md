@@ -20,7 +20,7 @@ I would suggest going through the following resources in order for better compre
 5. Then the implementation [here](main.ipynb)
 
 ## ToDo (plans)
-1. Calculation of Attention weights at each layer
+1. Calculation of Attention distances at each layer
 2. Comparing layers of CNN(ResNets) and a Strong ViT based on Centered Kernel Alignment (CKA) - refer FlexiViT
 3. Visualisation of attention maps
 
